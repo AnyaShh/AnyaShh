@@ -9,9 +9,6 @@
 <a href="https://t.me/AnyyaShh" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-[![anyyashh@yandex.ru](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.yandex.ru)
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 </div>
@@ -43,19 +40,6 @@
   <img src="https://img.shields.io/badge/Superset-20A6F2?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-<!-- Tools -->
-![Python](https://img.shields.io/badge/PYTHON-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![Jupyter](https://img.shields.io/badge/JUPYTER%20NOTEBOOK-ffffff?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![ClickHouse](https://img.shields.io/badge/CLICKHOUSE-ffffff?style=for-the-badge&logo=clickhouse&logoColor=FFCC00)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQL](https://img.shields.io/badge/SQL-00A3E0?style=for-the-badge&logo=databricks&logoColor=white)
-![Redash](https://img.shields.io/badge/REDASH-E74C3C?style=for-the-badge&logo=redash&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-2E7D32?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-ffffff?style=for-the-badge&logo=google-sheets&logoColor=34A853)
-![Git](https://img.shields.io/badge/GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
-![API](https://img.shields.io/badge/API-FF7A00?style=for-the-badge&logo=swagger&logoColor=white)
-![Airflow](https://img.shields.io/badge/AIRFLOW-6AD7E5?style=for-the-badge&logo=apache-airflow&logoColor=111111)
 
 SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
 ---
