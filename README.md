@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
+#### SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
 ---
 
 ## Контакты
