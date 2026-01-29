@@ -1,9 +1,8 @@
-# Анна Шаткова — Product Analyst 
+
 
 <div align="center">
 
 # Привет, я Анна! 👋  
-### Product Analyst 
 
 <br>
 
@@ -24,21 +23,6 @@
 - ✅ Открыта к сотрудничеству  
 - 📂 Ниже — мои проекты 👇
 
----
-
-### 🧰 Инструменты
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Superset-20A6F2?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
 
 ---
 
@@ -61,6 +45,21 @@ SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-tes
 | [Superset: дашборды и диагностика падения DAU](https://github.com/AnyaShh/Product-analytics-portfolio/tree/main/superset_dashboard) | Дашборд DAU/Retention, сегментация, поиск причины аномалии и план мониторинга. | Superset, SQL |
 
 
+### 🧰 Инструменты
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Superset-20A6F2?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
 
 ## Контакты
 Telegram: **@Anyashh** • Email: **anyashh@yandex.ru**
