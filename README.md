@@ -23,20 +23,6 @@
 - Открыта к сотрудничеству 🤝 
 - Ниже — мои проекты 👇
 
-
----
-
-
-
-
-
-
-
-SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
-
----
-
-## Кейсы
 | Название проекта | Описание проекта | Стек |
 |---|---|---|
 | [A/B тест: влияние изменения алгоритма на CTR](https://github.com/AnyaShh/Product-analytics-portfolio/tree/main/ab_test_ctr) |  **Контекст:** 2 версии алгоритма рекомендаций, проверка влияния на взаимодействие с лентой.<br>**Что делала:** A/A проверка сплита, расчёт CTR на user-level, оценка эффекта (t-test/бутстрап), бакетизация для стабилизации метрики, доверительные интервалы.<br>**Результат:** CTR в тесте ухудшился → **не рекомендовано** раскатывать на всех.| **SQL (ClickHouse)** · **Python** (pandas, numpy, scipy) · matplotlib/seaborn · Jupyter |
@@ -46,7 +32,7 @@ SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-tes
 
 
 ### 🧰 Инструменты
-
+SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" />
