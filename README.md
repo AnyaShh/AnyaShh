@@ -9,7 +9,9 @@
 <a href="https://t.me/AnyyaShh" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
+<a href="mailto:anyyashh@yandex.ru" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
