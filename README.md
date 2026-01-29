@@ -1,6 +1,6 @@
 # Анна Шаткова — Product Analyst 
 
-SQL (ClickHouse) • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau
+SQL • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (AA, MDE, T-test, bootstrap & other) • Superset/Tableau • JupiterLab, ClickHouse • Redash
 
 ---
 
