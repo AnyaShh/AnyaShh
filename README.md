@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://t.me/AnyyaShh" target="_blank">
+<a href="https://t.me/Anyyashh" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="mailto:anyyashh@yandex.ru" target="_blank">
@@ -47,4 +47,4 @@
 ---
 
 ## Контакты
-Telegram: **@Anyashh** • Email: **anyashh@yandex.ru**
+Telegram: **@Anyyashh** • Email: **anyyashh@yandex.ru**
